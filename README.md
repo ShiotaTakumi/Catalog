@@ -1,1 +1,1 @@
-公開用リポジトリへようこそ
+Welcome to the repository for publication.
