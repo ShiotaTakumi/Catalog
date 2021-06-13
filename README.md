@@ -4,7 +4,7 @@
 
 2021.06.13 リポジトリ名を変更しました．
 
---- ファイル情報 ---
+--- ファイル構成 ---
 ```bash
 .
 ├── Labeled：辺ラベル付き展開図
@@ -19,8 +19,8 @@
 │   │   │       ├── …
 │   │   │       └── cuboctahedron_1105.pdf
 │   │   └── truncated_tetrahedron.pdf：切頂四面体
-│   └── Platonic：
-│       ├── dodecahedron
+│   └── Platonic：正多面体
+│       ├── dodecahedron：正十二面体
 │       │   ├── 00000-00999
 │       │   │   ├── dodecahedron_00000.pdf
 │       │   │   ├── …
@@ -30,8 +30,8 @@
 │       │       ├── dodecahedron_17000.pdf
 │       │       ├── …
 │       │       └── dodecahedron_17279.pdf
-│       ├── hexahedron.pdf
-│       ├── icosahedron
+│       ├── hexahedron.pdf：正六面体
+│       ├── icosahedron：正二十面体
 │       │   ├── 00000-00999
 │       │   │   ├── icosahedron_00000.pdf
 │       │   │   ├── …
@@ -41,15 +41,15 @@
 │       │       ├── icosahedron_17000.pdf
 │       │       ├── …
 │       │       └── icosahedron_17279.pdf
-│       ├── octahedron.pdf
-│       └── tetrahedron.pdf
-├── Non-isomorphic
-│   └── Platonic
+│       ├── octahedron.pdf：正八面体
+│       └── tetrahedron.pdf：正四面体
+├── Non-isomorphic：非同型な辺展開図
+│   └── Platonic：正多面体
 │       ├── hexahedron.pdf
 │       ├── octahedron.pdf
 │       └── tetrahedron.pdf
-├── README.md
-├── grid
+├── README.md：本ファイル
+├── grid：使用したグリッドデータ
 │   ├── cuboctahedron.grh
 │   ├── dodecahedron.grh
 │   ├── hexahedron.grh
@@ -57,5 +57,5 @@
 │   ├── octahedron.grh
 │   ├── tetrahedron.grh
 │   └── truncated_tetrahedron.grh
-└── push.sh
+└── push.sh：Gitへのプッシュ用
 ```
