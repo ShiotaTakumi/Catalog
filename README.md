@@ -1,5 +1,4 @@
-Welcome to the repository for publication.
+各種辺展開図のカタログを公開しています．
 
-更新情報 ---
-
-2020.11.28 切頂四面体・立体八面体のカタログはUnfolding\Labeled\Archimedeanにあります．
+--更新情報 ---
+2021.06.13 リポジトリ名を変更しました．
