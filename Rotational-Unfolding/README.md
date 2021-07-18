@@ -1,9 +1,8 @@
-## 正四面体
-Tetrahedron.pdf
-## 正六面体
-Hexahedron.pdf
-## 正八面体
-Octahedron.pdf
+正四面体：Tetrahedron.pdf
+
+正六面体：Hexahedron.pdf
+
+正八面体：Octahedron.pdf
 ## 正十二面体
 Dodecahedron.pdf
 ## 正二十面体
