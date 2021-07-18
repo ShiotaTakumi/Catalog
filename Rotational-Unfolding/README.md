@@ -1,4 +1,5 @@
-##ファイル名対応
+## ファイル名対応関係
+
 正四面体：Tetrahedron.pdf
 
 正六面体：Hexahedron.pdf
