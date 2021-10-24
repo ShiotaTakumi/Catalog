@@ -34,5 +34,5 @@
 
 変形立方体：Snubcube.pdf
 
-アルキメデスの正N角形：ArchimedeanNprism.pdf（N=3 ~ N=24）
+アルキメデスの正N角形：ArchimedeanNprism.pdf（N=03 ~ N=24）
 ```
