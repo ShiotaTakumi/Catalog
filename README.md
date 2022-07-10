@@ -1,2 +1,1 @@
-「描画一覧」のリンク先
-（Link from "Drawing List）
+「描画一覧」のリンク先（Links from "Drawing List）
